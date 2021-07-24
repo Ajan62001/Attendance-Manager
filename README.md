@@ -1,4 +1,1 @@
-I am making a desktop application called Bunk Predictor. 
-
-
-It takes csv file as an input.
+It is a GUI based Application. It helps in managing your college attendance. You can see what will be your attendance if you bunk a class.
